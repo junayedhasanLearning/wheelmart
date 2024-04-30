@@ -229,7 +229,7 @@ section#hero {
   background-image: url("../image/hero-03.jpg");
 }
 
-.slide:nth-child(4) {
+.slide:last-child {
   background-image: url("../image/hero-04.jpg");
 }
 
